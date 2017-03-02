@@ -7,6 +7,8 @@ It uses pods, so u first need to install them and after open xcode workspace.
 App uses SwiftRealm also for persistent data but this is my first app using them so everything it is under development.
 You can use this as template for something else, just strip down the code :)
 
+No storyboards!
+
 Bellow are some pic from iPhone 4s device
 
 ![](https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17077870_10212150619863451_1703688215_n.jpg)
