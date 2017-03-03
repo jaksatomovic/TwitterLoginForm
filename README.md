@@ -16,7 +16,6 @@ Bellow are some pic from iPhone 4s device
 <img src="https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17105465_10212150619743448_1595332344_n.jpg?raw=true" height=480">
 <img src="https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17077870_10212150619863451_1703688215_n.jpg?raw=true" height=480">
 <img src="https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17035510_10212150619903452_902049199_n.jpg?raw=true" height=480">
+<img src="https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17078193_10212150619703447_1752045972_n.jpg?raw=true" height=480">
+<img src="https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17101868_10212150619783449_456509951_n.jpg?raw=true" height=480">
 
-
-![](https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17078193_10212150619703447_1752045972_n.jpg)
-![](https://github.com/jaksatomovic/TwitterLoginForm/blob/master/img/17101868_10212150619783449_456509951_n.jpg)
